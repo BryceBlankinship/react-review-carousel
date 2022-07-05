@@ -1,0 +1,27 @@
+{
+  "name": "react-review-carousel",
+  "version": "1.0.0",
+  "description": "Fully featured review fetcher for react apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryceBlankinship/react-review-carousel.git"
+  },
+  "keywords": [
+    "react",
+    "reviews",
+    "api"
+  ],
+  "author": "Bryce Blankinship",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BryceBlankinship/react-review-carousel/issues"
+  },
+  "homepage": "https://github.com/BryceBlankinship/react-review-carousel#readme",
+  "dependencies": {
+    "styled-components": "^5.3.5"
+  }
+}
